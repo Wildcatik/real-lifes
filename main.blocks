@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="Pk9CwEmdhJt!_m),`+k[">mySprite</variable><variable type="KIND_SpriteKind" id="`bhZP6i;yt^nsoUz]CwD">Player</variable><variable type="KIND_SpriteKind" id="Z9]GHr}EX=Oc_3!A%G.s">Projectile</variable><variable type="KIND_SpriteKind" id="Ev/usnVbrgYWuBkj%x;{">Food</variable><variable type="KIND_SpriteKind" id="tBF)BtdnK]E|VQ9lg,?m">Enemy</variable></variables><block type="pxt-on-start" id="x!iWnsNB*Hsev,4|!AH," x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="g:2#W*c!n`hCZ/DB|;wu"><field name="VAR" id="Pk9CwEmdhJt!_m),`+k[">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="]0U+C5s3TuOy64K7#Hh2"><value name="img"><shadow type="screen_image_picker" id="|VBHR{(^M7Y2-$O*rIuf"><field name="img">img`
+. . . . . . e e c c e e . . . . 
+. . . . . e 2 2 2 2 2 2 e . . . 
+. . . . 2 c 2 2 2 2 2 2 c 2 . . 
+. . . e 2 c 4 2 2 2 2 2 c 2 e . 
+. . . f 2 2 4 2 2 2 2 2 c 2 f . 
+. . . f 2 2 4 2 2 2 2 2 2 2 f . 
+. . . f 2 2 4 2 2 2 2 2 2 2 f . 
+. . . f 2 c 2 4 4 2 2 2 c 2 f . 
+. . . e 2 c e c c c c e c 2 e . 
+. . . e 2 e c b b b b c e 2 e . 
+. . . e 2 e b b b b b b e 2 e . 
+. . . e e e e e e e e e e e e . 
+. . . f e d e e e e e e d e f . 
+. . . f e 2 d e e e e d 2 e f . 
+. . . f f e e e e e e e e f f . 
+. . . . f f . . . . . . f f . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"|VBHR{(^M7Y2-$O*rIuf"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="Gb3,pG[@#mlJgP^k(VEg"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="set_current_tilemap" id="B+Et7kfY#WPWw9)0Fkhb"><value name="tilemap"><shadow type="tiles_tilemap_editor" id="rHb+$e#^F)=awZS#_1P,"><field name="tilemap">tilemap`уровень`</field><data>{"commentRefs":[],"fieldData":{"tilemap":"уровень3"}}</data></shadow></value></block></next></block></statement></block></xml>
